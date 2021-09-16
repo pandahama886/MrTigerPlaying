@@ -1,10 +1,10 @@
 {
-  "name": "mohamed",
+  "name": "MrTiger",
   "version": "2.1.0",
-  "description": "-- AWESOMENESS --",
-  "main": "bot.js",
+  "description": "-- MrTiger --",
+  "main": "MrTiger.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node MrTiger.js"
   },
   "dependencies": {
     "canvas": "^1.6.10",
