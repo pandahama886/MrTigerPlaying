@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const tpoints = {};
-const prefix = "-"
+const prefix = "2"
 const vpoints = {};
 const jimp = require("jimp");
 const client = new Discord.Client();
@@ -13,11 +13,11 @@ client.on("ready", () => {
   );
   let statuses = [
    
-    `FOG_UP `,
-    `ڕازی کردنی دڵی خەڵکی یاسایەکە شمولی من ناکات`,
-    `★✰𝐋𝐄𝐕𝐄𝐋 𝐃𝐋𝐌 𝐔𝐏✰★`,
-    `NAQEB_UP`,
-    `PERYA’m HAMW KASM❤`,
+    `Joker Staff`,
+    `MrTiGER`,
+    `100k Member soon`,
+    `MrTiger `,
+    `Ilove ❤ `,
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
